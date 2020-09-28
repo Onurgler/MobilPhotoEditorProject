@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yazlab</string>
+    <string name="action_settings">Settings</string>
+    <string name="dosyadan_resim_sec">Dosyadan resim sec</string>
+    <string name="kamera_ile_yeni_resim_cek">Kamera ile yeni resim cek</string>
+</resources>
